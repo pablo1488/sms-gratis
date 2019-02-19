@@ -1,2 +1,2 @@
 # SmS-Gratis
-NtapsGan
+need install : apt install curl
