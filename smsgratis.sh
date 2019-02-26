@@ -24,13 +24,12 @@ bAnn3er=" $YELLOW
 \t         [ z ] $NC
 \t [ Create by WidhiSec ]
  {============================================}
-}
 "
 printf "$bAnn3er"
 }
 bannner
 function g3T(){
-	      urLZ="http://scid.ga/api/sms.php?send=1&no=$list&msg=$pesan&sender=LOLZ"
+	      urLZ="http://bnerr.com/api/sms.php?send=1&no=$list&msg=$pesan&sender=LOLZ"
 	      gAZ=$(echo -e $urLZ | tr [:space:] "+")
 	      cuA="curl $gAZ -s"
 	      ReGe=$(${cuA} | grep -Po '(?<=status":").*?(?=")' )
