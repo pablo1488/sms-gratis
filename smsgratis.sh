@@ -42,7 +42,7 @@ ${CYAN} /    /  \___ \\  ___/\  \__\  \___\  \_/   \/ /_/ \  ___/ - ${CYAN}CREW.
 
 }
 function negetgan(){
-	       okeey1=$(curl -s 'http://sms.payuterus.biz/alpha/index.php?a=keluar' \
+	   okeey1=$(curl -s 'http://sms.payuterus.biz/alpha/index.php?a=keluar' \
            -H 'Connection: keep-alive' \
            -H 'Pragma: no-cache' \
            -H 'Cache-Control: no-cache' \
