@@ -1,49 +1,88 @@
 #!/bin/bash
-# Widhisec | JANGAN DI RECODE GAN HARGAI PEMBUATNYA !
-clear
-# waRna
-RED="\033[0;31m"
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-CYAN='\e[96m'
-NC='\033[0m' # No Color
-# mULai
-function check(){
-if [ -z $(command -v grep) ]; then
-	printf "grep belom di install"
+# SMS GRATIS VERSION BASH SHELL
+# MY FACEBOOK  : fb.me/mwidhis
+# MY INSTAGRAM : instagram.com/widhisec
+GREEN=$(tput setaf 2) #HIJAU
+WHITE=$(tput setaf 7) #PUTIH
+CYAN=$(tput setaf 6)
+RED=$(tput setaf 1) #MERAH
+NORMAL=$(tput sgr0)
+function finish() {
+        printf "[ keluar...]"
+        exit
+}
+LIMITATOR=15
+trap finish SIGINT
+function ngchecking(){
+if [[ -z $(command -v curl) ]]; then
+  printf "sepertinya curl belom di install !! \n"
+fi
+##########################################################
+if [[ -z $(command -v grep) ]]; then
+  printf "sepertinya grep belom di install !! \n"
 fi
 }
-check
-function bannner(){
-bAnn3er=" $YELLOW
- {============================================}
-           [IG -> @widhisec]
-\t _______ _______ _______ 
-\t |______ |  |  | |______ $GREEN
-\t ______| |  |  | ______|  [mass sms gratiz]
-\t         [ z ] $NC
-\t [ Create by WidhiSec ]
- {============================================}
+ngchecking
+function nebanner(){
+shuf -e "
+${RED}  
+#############################################################################
+                                   _______       .___      
+________  ______ ____   ____  ____ \   _  \    __| _/____  
+\___   / /  ___// __ \_/ ___\/ ___\/  /_\  \  / __ |/ __ \ 
+${CYAN} /    /  \___ \\  ___/\  \__\  \___\  \_/   \/ /_/ \  ___/ - ${CYAN}CREW.ID
+/_____ \/____  >\___  >\___  >___  >\_____  /\____ |\___  >
+      \/     \/     \/     \/    \/       \/      \/    \/ 
+                   [^]SMS GRATISS BY WIDHISEC[^]
+#############################################################################
 "
-printf "$bAnn3er"
+
 }
-bannner
-function g3T(){
-	      z="
-";EBz='Ge\n';gz='AZ -';DBz=' $Re';Iz='hp?s';jz='=$($';xz='${CY';Yz='| tr';Kz='1&no';Mz='st&m';uz=''\'' )';Rz='=LOL';Fz='om/a';Hz='ms.p';Xz='rLZ ';CBz='US :';oz=' '\''(?';Ez='rr.c';Gz='pi/s';sz='.*?(';mz='grep';ABz='[!] ';Vz='ho -';FBz='"';qz='atus';wz='tf "';Dz='/bne';Wz='e $u';Cz='tp:/';Uz='$(ec';Tz='gAZ=';Nz='sg=$';vz='prin';Az='urLZ';bz=':] "';Qz='nder';Pz='n&se';BBz='STAT';az='pace';cz='+")';Sz='Z"';pz='<=st';GBz='$NC"';kz='{cuA';ez='"cur';nz=' -Po';Lz='=$li';yz='AN} ';dz='cuA=';HBz='exit';tz='?=")';IBz=' 2';Bz='="ht';lz='} | ';Oz='pesa';hz='s"';fz='l $g';iz='ReGe';Jz='end=';Zz=' [:s';rz='":")';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$z$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$z$dz$ez$fz$gz$hz$z$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$z$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$vz$wz$GBz$z$HBz$IBz"
+function negetgan(){
+	       okeey1=$(curl -s 'http://sms.payuterus.biz/alpha/index.php?a=keluar' \
+           -H 'Connection: keep-alive' \
+           -H 'Pragma: no-cache' \
+           -H 'Cache-Control: no-cache' \
+           -H 'Upgrade-Insecure-Requests: 1' \
+           -H 'User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3' \
+           -H 'Referer: http://sms.payuterus.biz/alpha/send.php' \
+           -H 'Accept-Encoding: gzip, deflate' \
+           -H 'Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7' \
+           -H 'Cookie: _ga=GA1.2.131924726.1560439960; PHPSESSID=jjrqqaakmfcgfgbtjt8tve5595; _gid=GA1.2.1969561921.1561024035; _gat=1' --compressed --insecure | grep "span" | grep -Po "\d \S \d")
+         if [[ $okeey1 =~ "+" ]]; then
+           ok=`expr $okeey1 | bc`
+         elif [[ $okeey =~ "-" ]]; then
+          ok=`expr $okeey1 | bc`
+         elif [[ $okeey1 =~ "/" ]]; then
+           ok=`expr $okeey1`
+         fi
+         #elif [[ $okeey =~ "x" ]]; then
+         #  ok=`expr $okeey1 | bc`
+         #fi
+         okeey=$(curl -s "http://sms.payuterus.biz/alpha/send.php" \
+         -H 'Connection: keep-alive' \
+         -H 'Pragma: no-cache' \
+         -H 'Cache-Control: no-cache' \
+         -H 'Origin: http://sms.payuterus.biz' \
+         -H 'Upgrade-Insecure-Requests: 1' \
+         -H 'Content-Type: application/x-www-form-urlencoded' \
+         -H 'User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36' \
+         -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3' \
+         -H 'Referer: http://sms.payuterus.biz/alpha/' \
+         -H 'Accept-Encoding: gzip, deflate' \
+         -H 'Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7' \
+         -H 'Cookie: _ga=GA1.2.131924726.1560439960; PHPSESSID=jjrqqaakmfcgfgbtjt8tve5595; _gid=GA1.2.1969561921.1561024035' --data "nohp=$now&pesan=$psn&captcha=$ok" --compressed --insecure | grep -o 'value="[^"]*"')
+         if [[ $okeey =~ "SMS Gratis Telah Dikirim" ]]; then
+             echo -e "${GREEN}[+] ${NORMAL}mantap berhasil kirim gayn"
+         else
+             echo -e "${RED}[+] ${NORMAL}gagal kirim nih gayn"
+         fi
 }
-echo -n " - LIST   : "
-read list
-echo -n " - PESAN  : "
-read pesan
-if [ ! -f $list ]; then
-	echo "$list No Such File"
-	exit
-fi
-IFS=$'\r\n' GLOBIGNORE='*' command eval 'list=($(cat $list))'
-for (( i = 0; i < "${#list[@]}"; i++ )); do
-	passlist="${list[$i]}"
-	g3T $list $pesan $kiri3
+nebanner
+echo -en "[+] NOMOR NYA :"; read now
+echo -en "[+] PESAN NYA :"; read psn
+for x in okeey; do
+    ((thread=thread%LIMITATOR)); ((thread++==0)) && wait
+     negetgan "$now" "$psn" "$okeey" 
 done
-# EnD
+wait
