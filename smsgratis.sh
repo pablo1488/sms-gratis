@@ -21,6 +21,9 @@ fi
 if [[ -z $(command -v grep) ]]; then
   printf "sepertinya grep belom di install !! \n"
 fi
+if [[ -z $(command -v tput) ]]; then
+  printf "sepertinya tput belom di install !!"
+fi
 }
 ngchecking
 function nebanner(){
