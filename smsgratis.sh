@@ -52,7 +52,7 @@ function negetgan(){
            -H 'Accept-Encoding: gzip, deflate' \
            -H 'Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7' \
            -H 'Cookie: _ga=GA1.2.131924726.1560439960; PHPSESSID=jjrqqaakmfcgfgbtjt8tve5595; _gid=GA1.2.1969561921.1561024035; _gat=1' --compressed --insecure | grep "value" | grep "name" | grep -oP 'value="\K[^"]+')
-    okeey1=$(curl -s 'http://sms.payuterus.biz/alpha/index.php?a=keluar' \
+          okeey1=$(curl -s 'http://sms.payuterus.biz/alpha/index.php?a=keluar' \
            -H 'Connection: keep-alive' \
            -H 'Pragma: no-cache' \
            -H 'Cache-Control: no-cache' \
