@@ -1,7 +1,6 @@
 #!/bin/bash
 # SMS GRATIS VERSION BASH SHELL
 # MY FACEBOOK  : fb.me/mwidhis
-# MY INSTAGRAM : instagram.com/widhisec
 GREEN=$(tput setaf 2) #HIJAU
 WHITE=$(tput setaf 7) #PUTIH
 CYAN=$(tput setaf 6)
@@ -95,7 +94,5 @@ nebanner
 echo -en "[+] NOMOR NYA :"; read now
 echo -en "[+] PESAN NYA :"; read psn
 for x in okeey; do
-    ((thread=thread%LIMITATOR)); ((thread++==0)) && wait
      negetgan "$now" "$psn" "$okeey" 
 done
-wait
