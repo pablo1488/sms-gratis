@@ -44,23 +44,18 @@ function negetgan(){
            -H 'Connection: keep-alive' \
            -H 'Upgrade-Insecure-Requests: 1' \
            -H "User-Agent: $AGENT" \
-           -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3' \
            -H 'Referer: http://sms.payuterus.biz/alpha/send.php' --compressed|grep -Po "(?<=PHPSESSID=)[^,]*"|cut -d ';' -f1)
          bypass=$(curl -s 'http://sms.payuterus.biz/alpha/index.php?a=keluar' \
            -H 'Connection: keep-alive' \
            -H 'Upgrade-Insecure-Requests: 1' \
            -H "User-Agent: $AGENT" \
-           -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3" \
            -H 'Referer: http://sms.payuterus.biz/alpha/send.php' \
            -H "Cookie: PHPSESSID=${getcookie};" --compressed | grep "value" | grep "name" | grep -oP 'value="\K[^"]+')
           okeey1=$(curl -s 'http://sms.payuterus.biz/alpha/index.php?a=keluar' \
            -H 'Connection: keep-alive' \
            -H 'Upgrade-Insecure-Requests: 1' \
            -H "User-Agent: $AGENT" \
-           -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3' \
            -H 'Referer: http://sms.payuterus.biz/alpha/send.php' \
-           -H 'Accept-Encoding: gzip, deflate' \
-           -H 'Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7' \
            -H "Cookie: PHPSESSID=${getcookie};" --compressed | grep "span" | grep -Po "\d \S \d")
          if [[ $okeey1 =~ "+" ]]; then
            ok=`expr $okeey1 | bc`
@@ -74,15 +69,12 @@ function negetgan(){
          #fi
          okeey=$(curl -s "http://sms.payuterus.biz/alpha/send.php" \
          -H 'Connection: keep-alive' \
-         -H 'Pragma: no-cache' \
          -H 'Cache-Control: no-cache' \
          -H 'Origin: http://sms.payuterus.biz' \
          -H 'Upgrade-Insecure-Requests: 1' \
          -H 'Content-Type: application/x-www-form-urlencoded' \
          -H "User-Agent: $AGENT" \
-         -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3' \
          -H 'Referer: http://sms.payuterus.biz/alpha/' \
-         -H 'Accept-Encoding: gzip, deflate' \
          -H 'Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7' \
          -H "Cookie: PHPSESSID=${getcookie};" --data "nohp=$now&pesan=$psn&captcha=$ok&key=$bypass" --compressed --insecure | grep -o 'value="[^"]*"')
          if [[ $okeey =~ "SMS Gratis Telah Dikirim" ]]; then
@@ -95,7 +87,7 @@ nebanner
 echo -en "[+] NOMOR NYA :"; read now
 echo -en "[+] PESAN NYA :"; read psn
 (
-for x in okeey; do
+for x in $okeey; do
      negetgan "$now" "$psn" "$okeey" &
 done
 wait
